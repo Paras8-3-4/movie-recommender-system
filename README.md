@@ -93,8 +93,8 @@ The app will launch in your default browser at `http://localhost:8501`
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+**Paras Lad**  
+[GitHub Profile](https://github.com/Paras8-3-4)
 
 ---
 
